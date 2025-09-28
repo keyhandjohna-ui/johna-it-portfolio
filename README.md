@@ -2,7 +2,6 @@
 Hi, I’m Johna Angelica F. Bauya! I’m a student passionate about academics, technology, and sports. I strive to balance my studies with creativity and athletics, working hard to achieve excellence in all areas.
 
 ### About Me
-- *Name:* Johna Angelica F. Bauya
 - *Birthday:* September 29, 2006
 - *Address:* Barangay Looc, Occidental Mindoro
 
